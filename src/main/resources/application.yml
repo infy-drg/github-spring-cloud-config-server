@@ -9,7 +9,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/didorg/ms-config
+          uri: https://github.com/infy-drg/ms-config
           clone-on-start: true
           #username: forPrivateGithubRepo
           #password: forPrivateGithubRepo
